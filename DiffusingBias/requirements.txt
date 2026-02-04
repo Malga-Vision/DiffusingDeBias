@@ -1,0 +1,15 @@
+albumentations
+gdown
+matplotlib
+nltk
+numpy
+pandas
+Pillow
+Requests
+seaborn
+torch
+torchmetrics
+torchvision
+tqdm
+transformers
+yake
